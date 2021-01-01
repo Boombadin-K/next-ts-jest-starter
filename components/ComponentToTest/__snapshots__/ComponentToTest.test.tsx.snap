@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ComponentToTest /> should render correct HTML element 1`] = `
+<div
+  id="jest-test"
+>
+  This is test component
+</div>
+`;
